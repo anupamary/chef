@@ -1,1 +1,2 @@
-package "httpd" do
+package "nano"
+package "git"

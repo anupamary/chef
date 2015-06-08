@@ -1,5 +1,5 @@
 name 'amazon'
-maintainer 'The Authors'
+maintainer 'Chip Lee'
 maintainer_email 'you@example.com'
 license 'all_rights'
 description 'Installs/Configures amazon'
