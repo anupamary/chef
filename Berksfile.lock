@@ -1,0 +1,10 @@
+DEPENDENCIES
+  amazon
+    path: .
+    metadata: true
+  java (~> 1.31.0)
+
+GRAPH
+  amazon (0.1.0)
+    java (~> 1.31.0)
+  java (1.31.0)

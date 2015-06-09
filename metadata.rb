@@ -1,0 +1,8 @@
+name 'amazon'
+maintainer 'Chip Lee'
+maintainer_email 'you@example.com'
+license 'all_rights'
+description 'Installs/Configures amazon'
+long_description 'Installs/Configures amazon'
+version '0.1.0'
+depends 'java', '~>1.31.0'
