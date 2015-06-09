@@ -1,0 +1,12 @@
+{
+  "run_list": [
+    "recipe[java]",
+    "recipe[tomcat]"
+  ],
+  "java" : {
+    "jdk_version" : "7"
+  },
+  "tomcat" : {
+    "base_version" : "7"
+  }
+}
